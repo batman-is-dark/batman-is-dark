@@ -52,7 +52,7 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=batman-is-dark&theme=dracula" alt="streak graph" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=batman-is-dark&theme=dracula" alt="streak graph" height="150" />
 </div>
 
 <br />
