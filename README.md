@@ -39,7 +39,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=batman-is-dark&theme=dracula&column=7&row=1" alt="trophy graph" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=batman-is-dark&theme=dracula&column=7&row=1" alt="trophy graph" height="150" />
 </div>
 
 <br />
